@@ -3,7 +3,7 @@
 
 I am a undergrad engineering student, specializing in Electronics and Communication Engineering(ECE). With a profound enthusiasm for programming💻 and a keen interest in hardware learning and implementation🦿.   
 
---------
+-------
 
 👩‍💻In the first year of my engineering I focused on improving my programming and logical skills using C++ language and sometimes using C. In 2022 I learned basic Front-end languages HTML, CSS, JS and created my very first own website. 
 🐍 Applied my Python language skills to learn data science. Gained knowledge on various python libraries that are used for data manipulation and visualization📊 and at the end did a project on dataset about penguins!
@@ -13,16 +13,25 @@ I am a undergrad engineering student, specializing in Electronics and Communicat
 
 
 
+</BR>
+
 # 🛠️Skills
 
-Languages
+
+### Languages 
+
 ![C++](https://img.shields.io/badge/C++-8e7cc3?style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-77c1d0?style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-e87bb4?style=for-the-badge&logo=C&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-e7c45e-e87bb4?style=for-the-badge&logo=SQL&logoColor=white)
+![C](https://img.shields.io/badge/C-e87bb4?style=for-the-badge&logo=&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-cdab46?style=for-the-badge&logo=SQL&logoColor=white)
 
 
---
+### Front-End Development
+
+
+![CSS](https://img.shields.io/badge/CSS-f05a4f?style=for-the-badge&logo=HTML&logoColor=white)
+
+
 
 # Connect through...
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
