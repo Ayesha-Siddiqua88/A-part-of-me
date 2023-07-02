@@ -12,12 +12,14 @@ I am a undergrad engineering student, specializing in Electronics and Communicat
 ✏️I do skeching and painting as my hobby, though its been a long time since I painted something as I mostly go with sketching. Lately I have been into digital art more using Ibis Paint. 
 
 --
-# Skills
+# 🛠️Skills
 
 ## Languages
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0e76a8?style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-0e76a8?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8e7cc3?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-77c1d0?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-e87bb4?style=for-the-badge&logo=&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e7c45e-e87bb4?style=for-the-badge&logo=&logoColor=white)
+
 
 --
 
