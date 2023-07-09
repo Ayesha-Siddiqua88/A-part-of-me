@@ -36,5 +36,5 @@ I am a undergrad engineering student, specializing in Electronics and Communicat
 # Connect through...
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![Email](https://img.shields.io/badge/E-mail-ff0000?style=for-the-badge&logo=E-mail&logoColor=white)
+<img src="https://https://mail.google.com/mail/u/0/#inbox/img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
